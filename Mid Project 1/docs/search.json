@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "Re-Design.html",
+    "href": "Re-Design.html",
+    "title": "Re-Designs",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Re-Design.html#quarto",
+    "href": "Re-Design.html#quarto",
+    "title": "Re-Designs",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Re-Design.html#running-code",
+    "href": "Re-Design.html#running-code",
+    "title": "Re-Designs",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "Bad-Graph.html",
+    "href": "Bad-Graph.html",
+    "title": "Badgraph",
+    "section": "",
+    "text": "Bad Graph\nWhile perusing the latest United States government chart titled “Immigrant Visa Number Use by Category Fiscal Year 2024,” two pivotal columns, namely “Visa Issuances at Office Abroad” and “USCIS Adjustment,” delineate the distribution of immigrant visas across distinct categories. The comprehensive breakdown includes visas designated as F1, F2A, F2B, F3, F4, E1, E2, E3, E4, E5, and DV. This chart provides a comprehensive snapshot of the allocation and utilization of immigrant visas within the specified fiscal year.\n\n\n\n\n\nasdfdf"
+  },
+  {
+    "objectID": "Bad-Graph.html#by-mano-harsha-sappa",
+    "href": "Bad-Graph.html#by-mano-harsha-sappa",
+    "title": "Badgraph",
+    "section": "",
+    "text": "Bad Graph\nWhile perusing the latest United States government chart titled “Immigrant Visa Number Use by Category Fiscal Year 2024,” two pivotal columns, namely “Visa Issuances at Office Abroad” and “USCIS Adjustment,” delineate the distribution of immigrant visas across distinct categories. The comprehensive breakdown includes visas designated as F1, F2A, F2B, F3, F4, E1, E2, E3, E4, E5, and DV. This chart provides a comprehensive snapshot of the allocation and utilization of immigrant visas within the specified fiscal year.\n\n\n\n\n\nasdfdf"
+  }
+]
