@@ -3,7 +3,7 @@
     "path": "~/Desktop/stat 515 /Mid Project 1/Mid Project 1/Bad-Graph.qmd",
     "project_path": "Bad-Graph.qmd",
     "type": "quarto_markdown",
-    "hash": "1905153343",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1710078910861.0,
@@ -19,15 +19,15 @@
         "scrollLine": "0",
         "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "960:543.5999755859375",
+        "rmdVisualModeLocation": "2:0",
         "docOutlineSize": "60"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710082930,
+    "lastKnownWriteTime": 1710083909,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710082930626,
+    "last_content_update": 1710083909574,
     "read_only": false,
     "read_only_alternatives": []
 }
